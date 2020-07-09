@@ -9,3 +9,5 @@ I'm also always trying to build or create something to scratch an own itch, and 
 You will find more like experiments I make for myself and that I attempt to share in different mediums like [my YouTube channel](https://www.youtube.com/channel/UCsvIYWa4X0_DyszTP5nWSyw), [dev.to](https://dev.to/ackzell) posts or [this book-blog-something website](notes-on-vue.netlify.app).
 
 Feel free to reach out on YouTube or via [Twitter](https://twitter.com/_ackzell).
+
+Cheers!
