@@ -10,4 +10,6 @@ You will find more like experiments I make for myself and that I attempt to shar
 
 Feel free to reach out on YouTube or via [Twitter](https://twitter.com/_ackzell).
 
+Y si hablas Español, entonces puedes [escucharme en un podcast](http://mytypeofradio.buzzsprout.com/).
+
 Cheers!
