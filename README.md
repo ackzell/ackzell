@@ -1,8 +1,8 @@
-### Hello from 🇲🇽!
+### Hello there!
 
 Welcome to this part of the Internet. I'll go with the trend and create this README.md file 😁
 
-I'm a software developer (engineer, artisan, whatever you wanna call it) from Mexico currently and happily employed to work on the Front End side of things. 
+I'm a software developer (engineer, artisan, whatever you wanna call it) from Mexico 🇲🇽 currently and happily employed to work on the Front End side of things. 
 
 I'm also always trying to build or create something to scratch an own itch, and that is also aimed at sharing with others what I've learned in the process. So no fancy libraries or super complex apps in my repos.
 
