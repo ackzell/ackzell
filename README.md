@@ -8,8 +8,8 @@ I'm also always trying to build or create something to scratch an own itch, and 
 
 You will find more like experiments I make for myself and that I attempt to share in different mediums like [my YouTube channel](https://www.youtube.com/channel/UCsvIYWa4X0_DyszTP5nWSyw), [dev.to](https://dev.to/ackzell) posts or [this book-blog-something website](https://notes-on-vue.ackzell.dev).
 
-Feel free to reach out on YouTube or via [Twitter](https://twitter.com/_ackzell).
+Feel free to reach out on YouTube or via [Bluesky](https://bsky.app/profile/ackzell.dev).
 
-Y si hablas Español, entonces puedes [escucharme en un podcast](https://mytypeof.dev).
+Y si hablas Español, entonces puedes [escucharme en My typeof Radio](https://mytypeof.dev). O en la entrevista que tuve con [freeCodeCamp Español](https://www.youtube.com/watch?v=9ABITytYI4E&t=2s).
 
 Cheers!
